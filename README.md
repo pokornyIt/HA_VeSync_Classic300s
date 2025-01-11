@@ -14,6 +14,10 @@ Supported humidifiers:
 * Dual200S
 * LUH-D301S-WEU
 
+# Changes 2025-01-11
+
+- update top on original from 2024-11-05
+
 # Changes 2022-12-13
 
 - add support for HACS
